@@ -1,6 +1,6 @@
 Do you reckon I like tools?
 
-BG: Add Image Here.
+<img src="./assets/images/Workshop%20-%20I%20like%20tools.jpg" alt="Shows a bunch of tools on a board." width="300" />
 
 I reckon I like table tennis too...
 
