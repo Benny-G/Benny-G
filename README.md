@@ -1,9 +1,9 @@
-[Software Process Architect](https://github.com/Benny-G/Benny-G/wiki/Tools) @ [WiseTech Global](https://www.wisetechglobal.com/)
+[Software Process Architect](https://github.com/Benny-G/Benny-G/wiki#software-process-architect--wisetech-global) @ [WiseTech Global](https://www.wisetechglobal.com/)
 
 - passionate about improving the quality of Code Reviews.
 - building content to help developers be better developers.
 
-Has [too many hobbies](https://github.com/Benny-G/Benny-G/wiki/Tools) including...
+Has [too many hobbies](https://github.com/Benny-G/Benny-G/wiki#has-too-many-hobbies-including) including...
 
 - RC Flight
 - 4wd Camping Adventures.
