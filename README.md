@@ -1,36 +1,15 @@
-Software Process Architect @ [WiseTech Global](https://www.wisetechglobal.com/)
+[Software Process Architect](https://github.com/Benny-G/Benny-G/wiki/Tools) @ [WiseTech Global](https://www.wisetechglobal.com/)
 
-Passionate about improving the quality of Code Reviews.
+- passionate about improving the quality of Code Reviews.
+- building content to help developers be better developers.
 
-Has too many hobbies...
+Has [too many hobbies](https://github.com/Benny-G/Benny-G/wiki/Tools) including...
 
 - RC Flight
-  - building and flying rc drones, planes and helicopters since 2014.
 - 4wd Camping Adventures.
-  - Weekend trips to Wattagans and Turon.
-  - Cape York.
-  - Victorian High Country.
-  - Tasmania.
-  - Lap of Australia. (planning)
 - Mechanical therapy - building, making, modifying and fixing stuff.
-  - 4wd vehicle upgrades.
-    - suspension, barwork, dual battery system, solar, inverter, drawers, fridge, freezer, awning, lights, winch, etc.
-  - Welding and Plasma cutting.
-  - Wiring.
-  - Woodwork.
-  - Lathework.
-  - CNC Router-ing.
-  - 3d Printing.
 - History and tools.
-  - History.
-  - [Tools.](Tools.md)
-  - History of tools.
-  - WW II. Fascinated by the increased technical innovation in many technologies during this period.
 - Playing random sports.
-  - Mainly tennis. (every week I can)
-  - Occasional "brolympics" event with a group of old friends playing as many random sports in a week as we can.
-  - Table tennis.
-  - Will have a crack at anything.
 
 Enjoy!
 
